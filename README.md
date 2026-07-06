@@ -35,6 +35,6 @@ This project analyzes Superstore sales and profit data using Power BI to identif
 ## Files
 - `Superstore Profit Report.pbix`
 - `SuperStore.xlsx`
-- Superstore_Profit_Analysis_Project_Report(PDF)
+- `Superstore_Profit_Analysis_Project_Report.pdf`
 
 ---
